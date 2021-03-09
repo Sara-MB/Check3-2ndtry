@@ -1,0 +1,57 @@
+
+.First {
+	color:#2E2C2C;
+	font-size: 36px;
+	background-color: silver;
+	padding: 1em;
+	border: 2px solid #BD4345;
+	font-family: "Palatino Linotype";
+	text-align: center;
+	
+}	
+.my-class {
+    color: #332A31;
+	font-size: 28px;  
+	border: 1px solid #00FFEE;	
+    background-color: 	silver;
+    padding: 5em;
+    text-align: left;
+   font-family: "Century Schoolbook L";
+}
+.my-class h3 {
+    color: #332A31;
+	font-size: 36px;  
+	border: 3px solid #921E20;	
+    background-color: silver;
+    text-align: center;
+	font-family: "Palatino Linotype";
+}
+
+.my-class2 {
+	color: #ABABAB;
+	background-color: silver;
+	font-size: 16px;
+	border: 15px dotted #BBBAE0;
+	padding: 5em;
+	text-align: left;
+	font-family: "Hoefler Text";
+	
+}
+
+#my-id_2 {
+    border: none;
+    padding: 0.1em;
+    color: black;
+    text-align: center;
+    background-color: #BBBBC3;
+}
+
+#my-id {
+     border: 4px dotted #BCB9B9;
+     padding: 50px 25px 35px 25px;
+     color: #F33336;
+     background-color: #BBBBC3;
+     text-align: center;
+     font-family:  "Lucida Bright";
+	 font-size: 18px;
+}
